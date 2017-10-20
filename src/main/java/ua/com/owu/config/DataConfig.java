@@ -39,52 +39,6 @@ public class DataConfig {
         return vendorAdapter;
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     
     @Bean
 //    @Qualifier("entityManagerFactory")
