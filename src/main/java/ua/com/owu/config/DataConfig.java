@@ -28,7 +28,6 @@ public class DataConfig {
         dataSource.setUsername("root");
         dataSource.setPassword("123456");
         dataSource.setDriverClassName("com.mysql.jdbc.Driver");
-
         return dataSource;
     }
 
@@ -40,6 +39,53 @@ public class DataConfig {
         return vendorAdapter;
     }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
     @Bean
 //    @Qualifier("entityManagerFactory")
     public LocalContainerEntityManagerFactoryBean entityManagerFactory(){
