@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ja1900classConfig:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ja1900classConfig-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ja1900classConfig:war exploded" />
+    </root>
+  </artifact>
+</component>
